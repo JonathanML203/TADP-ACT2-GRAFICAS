@@ -1,0 +1,14 @@
+C:\Users\jonam\source\repos\Actividad 2 (U2)\Actividad 2 (U2)\obj\Debug\Actividad 2 (U2).csproj.AssemblyReference.cache
+C:\Users\jonam\source\repos\Actividad 2 (U2)\Actividad 2 (U2)\obj\Debug\Actividad_2__U2_.Form1.resources
+C:\Users\jonam\source\repos\Actividad 2 (U2)\Actividad 2 (U2)\obj\Debug\Actividad_2__U2_.Properties.Resources.resources
+C:\Users\jonam\source\repos\Actividad 2 (U2)\Actividad 2 (U2)\obj\Debug\Actividad 2 (U2).csproj.GenerateResource.cache
+C:\Users\jonam\source\repos\Actividad 2 (U2)\Actividad 2 (U2)\obj\Debug\Actividad 2 (U2).csproj.CoreCompileInputs.cache
+C:\Users\jonam\source\repos\Actividad 2 (U2)\Actividad 2 (U2)\bin\Debug\Actividad 2 (U2).exe.config
+C:\Users\jonam\source\repos\Actividad 2 (U2)\Actividad 2 (U2)\bin\Debug\Actividad 2 (U2).exe
+C:\Users\jonam\source\repos\Actividad 2 (U2)\Actividad 2 (U2)\bin\Debug\Actividad 2 (U2).pdb
+C:\Users\jonam\source\repos\Actividad 2 (U2)\Actividad 2 (U2)\bin\Debug\MetroFramework.Design.dll
+C:\Users\jonam\source\repos\Actividad 2 (U2)\Actividad 2 (U2)\bin\Debug\MetroFramework.dll
+C:\Users\jonam\source\repos\Actividad 2 (U2)\Actividad 2 (U2)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jonam\source\repos\Actividad 2 (U2)\Actividad 2 (U2)\obj\Debug\Activida.D5A379B4.Up2Date
+C:\Users\jonam\source\repos\Actividad 2 (U2)\Actividad 2 (U2)\obj\Debug\Actividad 2 (U2).exe
+C:\Users\jonam\source\repos\Actividad 2 (U2)\Actividad 2 (U2)\obj\Debug\Actividad 2 (U2).pdb
